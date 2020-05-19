@@ -1,7 +1,7 @@
 # netflix-clone-codeIgniter
 Video streaming website Netflix clone. Frontend - HTML5, CSS3, JS | Backend - CodeIgniter
 
-### Demo link 
+### Demo link
 
 ##### Login/landing page
 https://agitated-hoover-8aff97.netlify.app
@@ -10,10 +10,10 @@ https://agitated-hoover-8aff97.netlify.app
 https://agitated-hoover-8aff97.netlify.app/user_dashboard/browse.html
 
 ## Preview screen
-![img description](https://github.com/Rajesh-Royal/netflix-clone-cideigniter/blob/master/images/screenshot.jpg)
+![img description](https://github.com/dishonkuria/supreme-octo-winner)
 
 
-### License 
+### License
 
  ###### GNU GENERAL PUBLIC LICENSE
  Version 3, 29 June 2007
